@@ -1,0 +1,8 @@
+C:\Users\Mustiko\Desktop\Projects\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\Mustiko\Desktop\Projects\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\Mustiko\Desktop\Projects\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\Mustiko\Desktop\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.AssemblyReference.cache
+C:\Users\Mustiko\Desktop\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mustiko\Desktop\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\Mustiko\Desktop\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\Mustiko\Desktop\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
